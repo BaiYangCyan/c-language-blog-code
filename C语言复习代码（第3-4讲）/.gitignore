@@ -1,0 +1,11 @@
+# Visual Studio 2022
+.vs/
+x64/
+Win32/
+Debug/
+Release/
+*.user
+*.opendb
+*.sdf
+*.VC.db
+*.aps
